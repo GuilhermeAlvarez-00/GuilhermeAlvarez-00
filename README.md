@@ -33,5 +33,5 @@ Sou desenvolvedor front-end jr, estudando muito diariamente pois gosto bastante 
    <a href="https://www.linkedin.com/in/guilherme-alvarez-barboza-44388318b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div
    
- ![Snake animation](https://github.com/GuilhermeAlvarez-00)
+ ![Snake animation](https://github.com/GuilhermeAlvarez-00/GuilhermeAlvarez-00/blob/output/github-contribution-grid-snake.svg)
    
