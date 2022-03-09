@@ -2,7 +2,7 @@
 
 ### Olá, me chamo Guilherme!
 
-Sou desenvolvedor front-end jr, estudando muito diariamente pois gosto bastante do que faço.
+Sou desenvolvedor front-end jr, atualmente estudando muito, dando meu máximo a cada dia 👊.
 <hr />
 
 - 💻 Atualmente estudando ReactJS, NextJS, TypeScript e NodeJS
