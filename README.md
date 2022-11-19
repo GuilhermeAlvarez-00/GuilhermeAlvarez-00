@@ -6,7 +6,6 @@ Sou desenvolvedor front-end jr, atualmente estudando muito, dando meu máximo a 
 <hr />
 
 - 💻 Atualmente estudando ReactJS, NextJS, TypeScript e NodeJS
-- 💼 Em busca da primeira oportunidade
 - 🚀 NeverStopLearning
   
 <div style="display: inline_block"><br>
