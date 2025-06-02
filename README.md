@@ -2,10 +2,8 @@
 
 ### Olá, me chamo Guilherme!
 
-Sou desenvolvedor front-end, atualmente estudando mais backend para aprimorar meus conhecimentos.
+Desenvolvedor Fullstack com experiência profissional no desenvolvimento de aplicações web, atuando no front-end e back-end. Trabalho principalmente com React.js, Next.js e Node.js, seguindo boas práticas de programação e testes.
 <hr />
-
-- 💻 Atualmente estudando ReactJS, NextJS, TypeScript e NodeJS
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
